@@ -1,7 +1,7 @@
 # CV Azure Python App
 This a computer vision application which analysis images and generates captioning.
 
-# Prerequist
+# Prerequists
 Know how to create an virtual environment and should be able to run requirements.txt using pip command.
 
 # Instructions
